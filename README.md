@@ -4,7 +4,7 @@ A project for CSC-207.
 
 Authors:
 
-* Your Name Here
+* Princess Alexander
 * Samuel A. Rebelsky (starter code)
 
 ---
@@ -16,10 +16,11 @@ OTHERWISE UNDERSTAND IT.
 
 ---
 
-Citations:
+Citations: 
+
 
 ---
 
-This code may be found at <https://github.com/USERID/mp-matrices-maven>. 
+This code may be found at <https://github.com/princess-d-alexander/mp-matrices-maven>. 
 
 The original code may be found at <https://github.com/Grinnell-CSC207/mp-matrices-maven>.
