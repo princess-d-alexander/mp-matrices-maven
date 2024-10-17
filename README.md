@@ -11,13 +11,13 @@ Authors:
 
 Overview:
 
-PLEASE PROVIDE AN OVERVIEW OF THE PROJECT FOR THOSE WHO MIGHT NOT
-OTHERWISE UNDERSTAND IT.
+This project focuses on creating and manipulating two-dimensional arrays aka matrices in Java. It explores various matrix operations, such as inserting and deleting rows or columns, setting and getting values, and filling regions or lines within the matrix. These operations are implemented using different strategies, including a two-dimensional array, a single array representing the matrix, and an associative array for sparse matrices.
 
 ---
 
 Citations: 
 
+Course website readings were helpful and other MPs on arrays
 
 ---
 
